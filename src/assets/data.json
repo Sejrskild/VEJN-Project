@@ -1,0 +1,53 @@
+{
+  "en": {
+    "hero": {
+      "header": "wants to make roadside assistance more user-friendly through",
+      "subheader": "Did you know that the average roadside assistance takes above 1 hour in Denmark?"
+    },
+    "information": {
+      "header": "What is ",
+      "paragraph1": "VEJN is a roadside assistance service that operates like Uber, with a pay-per-use payment model. Drivers can request assistance through the VEJN app, which uses GPS to connect them with the nearest available service provider.",
+      "paragraph2": "Service providers on the VEJN platform are independent contractors who have been vetted and approved by the company. They are equipped to handle a variety of roadside issues and will provide an estimate for the cost of the service before any work is done. If the driver accepts the estimate, they will be charged through the VEJN app."
+    },
+    "features": {
+      "feature1": " offers a variety of service options, from jump-starts and tire changes to fuel delivery and lockout assistance, to ensure that drivers get the help they need, no matter what the issue.",
+      "feature2": " pay-per-use model allows drivers to pay for services through the app, and they receive digital receipts for their records. This makes the payment process quick, easy, and transparent.",
+      "feature3": " provides around-the-clock assistance, so drivers can get help whenever they need it, day or night.",
+      "feature4": " is available in all of Europe and the United States, so you can get help no matter where you are."
+    },
+    "signup": {
+      "disclaimer": "Please be advised that VEJN is a fictional roadside assistance service created for illustrative purposes only. While the service and its features were designed to demonstrate the potential benefits of a pay-per-use model for roadside assistance, VEJN is not a real company or service.",
+      "created": "Created by Emil Sejrskild",
+      "header": "Do you want to be part of ",
+      "subheader": "Sign up for our newsletter",
+      "input_placeholder": "Your email address",
+      "submit": "Sign up"
+    }
+  },
+  "dk": {
+    "hero": {
+      "header": "ønsker at gøre vejhjælp mere brugervenlig gennem",
+      "subheader": "Vidste du, at den gennemsnitlige vejhjælp tager over 1 time i Danmark?"
+    },
+    "information": {
+      "header": "Hvad er ",
+
+      "paragraph1": "VEJN er en vejhjælpstjeneste, der fungerer som Uber, med en betalingsmodel baseret på brug. Bilister kan anmode om hjælp gennem VEJN-appen, som bruger GPS til at forbinde dem med den nærmeste tilgængelige serviceudbyder.",
+      "paragraph2": "Serviceudbydere på VEJN-platformen er uafhængige entreprenører, der er blevet gennemgået og godkendt af virksomheden. De er udstyret til at håndtere en række vejhjælpsproblemer og vil give et overslag over omkostningerne for tjenesten, før der udføres noget arbejde. Hvis føreren accepterer overslaget, vil de blive opkrævet gennem VEJN-appen."
+    },
+    "features": {
+      "feature1": " tilbyder en række forskellige servicevalgmuligheder, fra starthjælp og dækskift til levering af brændstof og hjælp til oplåsning.",
+      "feature2": " betalingsmodel baseret på brug tillader bilister at betale for tjenester gennem appen, og de modtager digitale kvitteringer til deres optegnelser. Dette gør betalingsprocessen hurtig, nem og gennemsigtig.",
+      "feature3": " tilbyder døgnassistance, så bilister kan få hjælp, når de har brug for det, både dag og nat.",
+      "feature4": " er tilgængelig i hele Europa og USA, så du kan få hjælp, uanset hvor du er."
+    },
+    "signup": {
+      "disclaimer": "Bemærk venligst, at VEJN er en fiktiv vejhjælpstjeneste, der er oprettet udelukkende til illustrative formål. Mens tjenesten og dens funktioner er designet til at demonstrere de potentielle fordele ved en betalingsmodel baseret på brug for vejhjælp, er VEJN ikke en reel virksomhed eller tjeneste.",
+      "created": "Design og koncept af Emil Sejrskild",
+      "header": "Vil du være en del af ",
+      "subheader": "Tilmeld dig vores nyhedsbrev",
+      "input_placeholder": "Skriv din email adresse",
+      "submit": "Tilmeld"
+    }
+  }
+}
